@@ -197,3 +197,4 @@ Support
 Medical Disclaimer
 
 This system is intended for research and educational purposes only. It is not a substitute for professional medical advice or diagnosis. Always consult qualified healthcare providers.
+# anemia-nail-detection
