@@ -1,4 +1,6 @@
-#  Anemia Detection via Nail Bed Analysis 🧠
+#  Anemia Detection via Nail Bed Analysis 
+
+## NOTE: Still this project is in development stage. Nail classifier is not working proper so do not consider its results. 
 
 An AI-powered system that predicts **anemia** from nail bed images using a three-stage deep learning pipeline. Combines **YOLOv8 for nail detection**, **CNN-based polish classification**, and a **custom PyTorch model** for anemia prediction. Easily test via CLI or integrate using a Flask API.
 
@@ -12,7 +14,7 @@ An AI-powered system that predicts **anemia** from nail bed images using a three
 -  **API Support** – RESTful Flask API for web & mobile integration.
 -  **Visual Feedback** – Displays predictions with confidence and overlays.
 
-
+# Note: Upload testing images in `test_images` folder while testing with Command Line (Local Testing)
 
 ##  Architecture
 
