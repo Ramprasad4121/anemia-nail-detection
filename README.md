@@ -37,6 +37,7 @@ Anemia CNN → Diagnosis (Anemic / Non-Anemic)
 anemia-nail-detection/
 ├── anemia_pipeline.py         # CLI interface for local testing
 ├── app.py                     # Flask API server
+├── app_base64.py              # Flask API server (cropped images data in base64)
 ├── models/                    # Model weights
 │   ├── yolov8_nail_best.pt
 │   ├── nail_cnn_classifier_model.h5
