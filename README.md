@@ -91,7 +91,7 @@ python anemia_pipeline.py
 ### Method 2: REST API (Flask + Postman)
 
 ```bash
-python app.py
+python app.py       ## without base64
 ```
 
 * Server runs at: `http://localhost:2000`
