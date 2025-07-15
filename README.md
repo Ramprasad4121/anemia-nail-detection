@@ -72,10 +72,10 @@ Method 1: Command Line (Local Testing)
 python anemia_pipeline.py
 ```
 
-	•	Processes all images in test_images/
-	•	Crops nails and filters out polished ones
-	•	Predicts and displays anemia diagnosis
-	•	Supports: .png, .jpg, .jpeg, .bmp, .tiff, .webp
+•Processes all images in test_images/
+•Crops nails and filters out polished ones
+•Predicts and displays anemia diagnosis
+•Supports: .png, .jpg, .jpeg, .bmp, .tiff, .webp
 
 
 Method 2: REST API (Flask + Postman)
