@@ -93,6 +93,9 @@ python anemia_pipeline.py
 ```bash
 python app.py       ## without base64
 ```
+```bash
+python app_base64.py       ## with base64
+```
 
 * Server runs at: `http://localhost:2000`
 
